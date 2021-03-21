@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <parameter name="appurl" value="https://expired.badssl.com/"/>
+  <listeners>
+    <listener class-name="com.sample.listeners.MyListener"/>
+  </listeners>
+  <test thread-count="5" name="sample(failed)">
+    <parameter name="userName" value="Admin"/>
+    <parameter name="Password" value="Admin123"/>
+    <classes>
+      <class name="test.TestCase">
+        <methods>
+          <include name="setUp"/>
+          <include name="withoutParameters"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- test.TestCase -->
+    </classes>
+  </test> <!-- sample(failed) -->
+</suite> <!-- Failed suite [Suite] -->

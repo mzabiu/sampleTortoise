@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+    <line>
+      <![CDATA[======= Test case testWithExcel is started]]>
+    </line>
+    <line>
+      <![CDATA[======= Test case testWithExcel is Passed]]>
+    </line>
+    <line>
+      <![CDATA[======= Test case testWithExcel is started]]>
+    </line>
+    <line>
+      <![CDATA[======= Test case testWithExcel is Passed]]>
+    </line>
+    <line>
+      <![CDATA[======= Test case testWithExcel is started]]>
+    </line>
+    <line>
+      <![CDATA[======= Test case testWithExcel is Passed]]>
+    </line>
+    <line>
+      <![CDATA[======= Test case testWithExcel is started]]>
+    </line>
+    <line>
+      <![CDATA[======= Test case testWithExcel is Passed]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="995" started-at="2021-03-21T09:26:26 IST" finished-at="2021-03-21T09:26:27 IST">
+    <groups>
+    </groups>
+    <test name="sample" duration-ms="995" started-at="2021-03-21T09:26:26 IST" finished-at="2021-03-21T09:26:27 IST">
+      <class name="test.TestCase">
+        <test-method status="PASS" signature="testWithExcel(org.testng.xml.XmlTest, java.lang.reflect.Method, java.lang.String, java.lang.String)[pri:0, instance:test.TestCase@1f7030a6]" name="testWithExcel" duration-ms="15" started-at="2021-03-21T09:26:27 IST" data-provider="excelData" finished-at="2021-03-21T09:26:27 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.xml.XmlTest@dbaee317]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void test.TestCase.testWithExcel(org.testng.xml.XmlTest,java.lang.reflect.Method,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="2">
+              <value is-null="true"/>
+            </param>
+            <param index="3">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[======= Test case testWithExcel is started]]>
+            </line>
+            <line>
+              <![CDATA[======= Test case testWithExcel is Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testWithExcel -->
+        <test-method status="PASS" signature="testWithExcel(org.testng.xml.XmlTest, java.lang.reflect.Method, java.lang.String, java.lang.String)[pri:0, instance:test.TestCase@1f7030a6]" name="testWithExcel" duration-ms="3" started-at="2021-03-21T09:26:27 IST" data-provider="excelData" finished-at="2021-03-21T09:26:27 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.xml.XmlTest@dbaee317]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void test.TestCase.testWithExcel(org.testng.xml.XmlTest,java.lang.reflect.Method,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Jabesh]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[======= Test case testWithExcel is started]]>
+            </line>
+            <line>
+              <![CDATA[======= Test case testWithExcel is Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testWithExcel -->
+        <test-method status="PASS" signature="testWithExcel(org.testng.xml.XmlTest, java.lang.reflect.Method, java.lang.String, java.lang.String)[pri:0, instance:test.TestCase@1f7030a6]" name="testWithExcel" duration-ms="3" started-at="2021-03-21T09:26:27 IST" data-provider="excelData" finished-at="2021-03-21T09:26:27 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.xml.XmlTest@dbaee317]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void test.TestCase.testWithExcel(org.testng.xml.XmlTest,java.lang.reflect.Method,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Adarsh]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[======= Test case testWithExcel is started]]>
+            </line>
+            <line>
+              <![CDATA[======= Test case testWithExcel is Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testWithExcel -->
+        <test-method status="PASS" signature="testWithExcel(org.testng.xml.XmlTest, java.lang.reflect.Method, java.lang.String, java.lang.String)[pri:0, instance:test.TestCase@1f7030a6]" name="testWithExcel" duration-ms="4" started-at="2021-03-21T09:26:27 IST" data-provider="excelData" finished-at="2021-03-21T09:26:27 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.xml.XmlTest@dbaee317]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void test.TestCase.testWithExcel(org.testng.xml.XmlTest,java.lang.reflect.Method,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Babu]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Password]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[======= Test case testWithExcel is started]]>
+            </line>
+            <line>
+              <![CDATA[======= Test case testWithExcel is Passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testWithExcel -->
+      </class> <!-- test.TestCase -->
+    </test> <!-- sample -->
+  </suite> <!-- Suite -->
+</testng-results>
